@@ -4,7 +4,6 @@
   "description": "Node.js sample app for OpenShift 3",
   "main": "server.js",
   "dependencies": {
-    "ejs": "^2.4.1",
     "express": "^4.13.4",
     "mocha": "^2.4.5",
     "mongodb": "^2.1.16",
